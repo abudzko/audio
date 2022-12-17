@@ -1,0 +1,14 @@
+app:
+  audio:
+    record:
+      format:
+        encoding: PCM_SIGNED
+        sample-rate: 8000
+        channel-count: 1
+        sample-size: 16
+        big-endian: false
+      location-path: "/home/aliaksei/Audio/audio"
+      type: "wav"
+  size:
+    width: 700
+    height: 700
